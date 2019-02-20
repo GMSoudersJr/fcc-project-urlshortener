@@ -18,7 +18,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/GMSoudersJr/fcc-project-headerparser"
+		"url": "https://github.com/GMSoudersJr/fcc-project-urlshortener"
 	},
 	"keywords": [
 		"node",
